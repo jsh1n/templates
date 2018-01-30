@@ -1,4 +1,4 @@
-PWD /Users/shinbojun/template
+PWD /Users/shinbojun/templates/tex
 INPUT /usr/local/texlive/2017/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf.cnf
@@ -112,5 +112,38 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
+INPUT ./images/cat.jpeg
+INPUT extractbb -O ./images/cat.jpeg
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT ./images/cat2.jpg
+INPUT extractbb -O ./images/cat2.jpg
+INPUT ./images/doge.jpeg
+INPUT extractbb -O ./images/doge.jpeg
+INPUT ./images/hari.jpeg
+INPUT extractbb -O ./images/hari.jpeg
 OUTPUT template.dvi
 INPUT template.aux
